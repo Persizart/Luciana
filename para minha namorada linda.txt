@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Convite Surpresa</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="container">
+ <h1>Para a mulher mais linda do mundo...</h1>
+ <p>Você é Linda E eu te amo muito luciana guedes soares </p>
+ <button id="botao-surpresa">Clique aqui!</button>
+ <div id="surpresa" style="display:none;">
+ <h2>Quer ser minha namorada para sempre?</h2>
+ <img src="c:\Users\Xandy\Downloads\IMG_2598.JPEG" alt="Foto da namorada">
+ </div>
+ </div>
+ <script src="script.js"></script>
+</body>
+</html>
